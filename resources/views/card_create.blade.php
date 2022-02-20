@@ -14,7 +14,7 @@
     <textarea name="description" class="form-control"  rows="3"  placeholder="Enter Your Description"></textarea>
    
     <button class="btn btn-info btn-block my-4" type="submit">Submit Please</button>
-    <a href="{{ route('home') }}" class="btn btn-danger btn-info btn-block my-4"> Back </a>
+    <a href="{{ route('home') }}" class="btn btn-danger btn-info btn-block my-4">Back</a>
                                        
                                    
 </form>
